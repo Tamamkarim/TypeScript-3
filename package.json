@@ -1,0 +1,22 @@
+{
+  "name": "restaurant-app-typescript",
+  "version": "1.0.0",
+  "description": "Restaurant Application converted to TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  },
+  "keywords": [
+    "typescript",
+    "restaurant",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT"
+}
